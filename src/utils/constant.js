@@ -1,4 +1,4 @@
-export const Api_end = "http://localhost:8080/api/v1/user"
+export const Api_end = "https://gmmovie-backend.onrender.com/api/v1/user"
 
 export const options = {
   method: 'GET',
